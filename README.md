@@ -2,14 +2,25 @@
 
 > Projeto front-end do sistema Adopt realizado durante o curso de Análise e Desenvolvimento de Sistemas pela faculdade Impacta de Tecnologia.
 
-## Build Setup
+## Objetivo: 
 
-``` bash
+Criar um sistema para realizar a divulgação de animais de adoção para instituições sem fins lucrativos.
+Com uma área de vitrine dos animais e uma área de cadastro de usuário que terá o acesso gerecial.
+
+Pode dar uma espiada na nossa vitrine: [Link](https://lively-ground-05140eb0f.1.azurestaticapps.net/#/)
+
+
+## Instalação e Execução
+
+Clone o projeto
+git clone https://github.com/Ruy-Araujo/adopt-frontend.git
+cd adopt-frontend
+
+```
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# serve with hot rel
 
 # build for production with minification
 npm run build
